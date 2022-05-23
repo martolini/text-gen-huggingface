@@ -1,0 +1,10 @@
+{
+  "uid": "aaeb576d-3400-4d06-a14d-750b3fddf6d5",
+  "name": "text-gen",
+  "exclude": [
+    "venv",
+    ".venv",
+    "__pycache__",
+    ".databutton"
+  ]
+}
